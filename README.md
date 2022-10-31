@@ -3,7 +3,7 @@
 ## [Usama Tariq](http://usamatariq.website/)
 
 
-I am a Software Engineer with expertise in JavaScript ![JavaScript Image](https://cdn-icons-png.flaticon.com/16/5968/5968292.png), TypeScript ![TypeScript Image](https://cdn-icons-png.flaticon.com/16/5968/5968381.png) and Python ![Python Image](https://cdn-icons-png.flaticon.com/16/5968/5968350.png)
+I am a Software Engineer with expertise in JavaScript ![JavaScript Image](https://cdn-icons-png.flaticon.com/16/5968/5968292.png), TypeScript ![TypeScript Image](https://cdn-icons-png.flaticon.com/16/5968/5968381.png) and Python ![Python Image](https://cdn-icons-png.flaticon.com/16/5968/5968350.png) I have around 3 years of experience of software industry. 
 
 Developing platforms for SMEs using React JS ![React JS Image](https://cdn-icons-png.flaticon.com/16/919/919851.png) and Redux ![](https://cdn.iconscout.com/icon/free/png-16/redux-3521674-2945118.png) for web accessibility and React Native ![React Native Image](https://cdn-icons-png.flaticon.com/16/919/919851.png) for cross-platform mobile apps. 
 
