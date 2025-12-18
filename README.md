@@ -12,7 +12,7 @@
   <br>
   <a href="https://usamatariq.com" target="_blank">🌐 Website</a> •
   <a href="https://www.linkedin.com/in/usama-tariq/" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:tariqusama95@gmail.com" target="_blank">📧 Email</a> •
+  <a href="mailto:tariqusama95@gmail.com" target="_blank">📧 Email</a> 
  </p>
 
 ---
