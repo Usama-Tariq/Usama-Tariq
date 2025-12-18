@@ -1,42 +1,57 @@
-# Hi there 👋
+<h1 align="center">👋 Hi, I'm Usama Tariq</h1>
+<!-- <h2 align="center">I'm Muhammad Aqib</h2> -->
+<p align="center">
+  <b>Senior Software Engineer | Full-Stack (React, Node.js, AWS, TypeScript)</b>
+  <br>
+  <br>
+  <em>💻 Building scalable web & AI-driven platforms for SaaS and consumer tech</em>
+  <br>
+  <br>
+  🌍 Lahore, Pakistan — Open to Remote (Worldwide) & Hybrid  
+  <br>
+  <br>
+  <a href="https://usamatariq.com" target="_blank">🌐 Website</a> •
+  <a href="https://www.linkedin.com/in/usama-tariq/" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:tariqusama95@gmail.com" target="_blank">📧 Email</a> •
+ </p>
 
-## [Usama Tariq](http://usamatariq.website/)
+---
 
+### 🚀 About Me  
+I’m a Senior Software Engineer with 6+ years of experience designing and building high-performance web platforms.  
+My expertise spans **React, Node.js, TypeScript, and AWS**, and I focus on clean architecture, developer velocity, and measurable impact.
 
-I am a Software Engineer with expertise in JavaScript ![JavaScript Image](https://cdn-icons-png.flaticon.com/16/5968/5968292.png), TypeScript ![TypeScript Image](https://cdn-icons-png.flaticon.com/16/5968/5968381.png) and Python ![Python Image](https://cdn-icons-png.flaticon.com/16/5968/5968350.png) I have around 3 years of experience of software industry. 
+- 🧩 **Tech Stack:** React, Node.js, TypeScript, AWS, Docker, Python  
+- ☁️ **Infrastructure:** Lambda, CloudFront, CloudFormation, Cognito, GitHub Actions (CI/CD)  
+- 🧠 **Focus Areas:** Full-Stack Engineering, Cloud Automation, Performance Optimization  
 
-Developing platforms for SMEs using React JS ![React JS Image](https://cdn-icons-png.flaticon.com/16/919/919851.png) and Redux ![](https://cdn.iconscout.com/icon/free/png-16/redux-3521674-2945118.png) for web accessibility and React Native ![React Native Image](https://cdn-icons-png.flaticon.com/16/919/919851.png) for cross-platform mobile apps. 
+---
 
-I also have experience with 🐍 Python's frameworks Flask and Django.
+### 🛠 Featured Projects  
 
-I love contributing to 📖 open source communities and am open to any 🎙️ speaking opportunity.
+#### 🔹 [AI Form Automation (OpenAI + TypeScript)](https://pennycanny.com/)  
+Integrated OpenAI to automatically populate complex onboarding forms — reduced manual input by **70%** and improved user experience.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+#### 🔹 [Serverless Routing Framework (AWS Lambda@Edge + SWC)](https://pennycanny.com/)  
+Built a custom routing layer for low-latency APIs with global scalability — reduced build time by **40%** and improved cold start performance.
 
-<!-- Contact me or learn more about my work here if that's the case.
+#### 🔹 [Talent4gig Platform (React + Redux + SASS)](https://github.com/Usama-Tariq)  
+Refactored front-end architecture for a gig marketplace, cutting load time by **30%** and improving maintainability.
 
+---
 
+### 📊 GitHub Stats  
 
+![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usama-Tariq&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-💻 Want to get updated on the latest projects I am working on? Follow me on [GitHub![GitHub](https://cdn-icons-png.flaticon.com/16/1051/1051326.png)](https://github.com/Usama-Tariq)! 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usama-Tariq&layout=compact&theme=tokyonight)
 
-🏢 Want to see my professional journey? Let's Connect on [LinkedIn![LinkedIn](https://cdn-icons-png.flaticon.com/16/174/174857.png)](https://www.linkedin.com/in/Usama-Tariq)!
- -->
+---
 
-#### 🔗 Links
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usama-Tariq) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Usama-Tariq)
+### 🤝 Connect With Me  
+[🌐 Website](https://usamatariq.com) • [💼 LinkedIn](https://linkedin.com/in/usama-tariq) • [📧 Email](mailto:tariqusama95@gmail.com)
 
-<!--
-**Usama-Tariq/Usama-Tariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+> *“I build systems that scale — and teams that ship fast.”*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
